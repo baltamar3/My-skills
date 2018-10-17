@@ -34,7 +34,7 @@ body{
     height: 250px;
     box-sizing: border-box;
     border-radius: 25px;
-    background-color: rgb(253, 238, 238);
+    background-color:#FFFF;
     position: absolute;
     left: 0px;
     top: 540px;
@@ -66,7 +66,7 @@ i{
 }
 
 .fa-js-square{
-    color:yellow;
+    color:rgb(230, 230, 27);
 }
 
 .fa-java{
