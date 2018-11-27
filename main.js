@@ -13,7 +13,6 @@ function move(){
         h1[0].className="move-left-h"
         h1[0].style.visibility="hidden"
         divSkill.className="skills-move"
-
     }else{
         h4[0].style.visibility="visible"
         h4[0].className="move-righ-h"
